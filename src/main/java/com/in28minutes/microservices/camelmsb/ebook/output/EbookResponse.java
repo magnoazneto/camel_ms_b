@@ -3,8 +3,6 @@ package com.in28minutes.microservices.camelmsb.ebook.output;
 import com.in28minutes.microservices.camelmsb.ebook.Ebook;
 import com.in28minutes.microservices.camelmsb.ebook.input.Livro;
 
-import javax.persistence.Embedded;
-
 public class EbookResponse {
 
     private Long id;
